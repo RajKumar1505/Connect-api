@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28845" started-at="2022-01-13T09:37:29Z" finished-at="2022-01-13T09:37:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28845" started-at="2022-01-13T09:37:29Z" finished-at="2022-01-13T09:37:58Z">
+      <class name="org.test.e2s.Practice">
+        <test-method status="PASS" signature="test123()[pri:0, instance:org.test.e2s.Practice@4e9ba398]" name="test123" duration-ms="28791" started-at="2022-01-13T09:37:29Z" finished-at="2022-01-13T09:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test123 -->
+      </class> <!-- org.test.e2s.Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
